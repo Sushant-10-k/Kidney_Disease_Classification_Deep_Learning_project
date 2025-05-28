@@ -35,3 +35,27 @@ conda activate krishna
 ```bash
 pip install -r requirements.txt
 ```
+## MLflow
+
+##### cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Sushant-10-k/Kidney_Disease_Classification_Deep_Learning_project.mlflow \
+MLFLOW_TRACKING_USERNAME=Sushant-10-k \
+MLFLOW_TRACKING_PASSWORD=834f4d0154d10dc596a8ad186bd59f744b0b0224 \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+set MLFLOW_TRACKING_URI=https://dagshub.com/Sushant-10-k/Kidney_Disease_Classification_Deep_Learning_project.mlflow
+
+set MLFLOW_TRACKING_USERNAME=Sushant-10-k 
+
+set MLFLOW_TRACKING_PASSWORD=834f4d0154d10dc596a8ad186bd59f744b0b0224
+
+```
