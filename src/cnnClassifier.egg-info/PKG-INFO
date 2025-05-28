@@ -33,16 +33,16 @@ Dynamic: summary
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/Sushant-10-k/Kidney_Disease_Classification_Deep_Learning_project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n krishna python=3.9 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate krishna
 ```
 
 
