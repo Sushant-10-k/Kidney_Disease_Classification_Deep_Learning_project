@@ -231,3 +231,9 @@ x==========x]
 [2025-05-29 04:38:09,072: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-05-29 04:39:02,000: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-29 04:39:02,006: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-29 04:39:02,007: INFO: common: created directory at: artifacts]
+[2025-05-29 04:39:11,746: INFO: common: json file saved at: scores.json]
+[2025-05-29 04:39:15,670: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-05-29 04:39:16,693: INFO: builder_impl: Assets written to: C:\Users\SUSHANT\AppData\Local\Temp\tmpsgydjtcc\model\data\model\assets]
