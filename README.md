@@ -59,3 +59,8 @@ set MLFLOW_TRACKING_USERNAME=Sushant-10-k
 set MLFLOW_TRACKING_PASSWORD=834f4d0154d10dc596a8ad186bd59f744b0b0224
 
 ```
+### DVC cmd
+
+1. dvc init
+2. dvc repro
+3. dvc dag
